@@ -1,5 +1,2 @@
 # BitcoinConverter
-# BitcoinConverter
-# BitcoinConverter
-# BitcoinConverter
-# BitcoinConverter
+Js and Java solutions
